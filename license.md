@@ -31,9 +31,7 @@
   </a>
 </div>
 
-<div align="center">
-  <img width="720" height="405" alt="Repetitive Elements Analyzer" src="https://github.com/user-attachments/assets/repetitive-elements-analyzer-banner" />
-</div>
+
 
 ---
 
